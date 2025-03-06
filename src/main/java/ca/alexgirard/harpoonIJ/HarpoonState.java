@@ -19,10 +19,6 @@ public class HarpoonState {
         FillLists(project);
 
         var Files = FilesMap.getOrDefault(project.getName(), new ArrayList<>());
-        if (index < 0) {
-            Files.add(file);
-            return;
-        }
 
         if (index >= Files.size()) {
             for (int i = Files.size(); index >= i; i++) {
