@@ -77,7 +77,7 @@
                 text="Goto Next Harpoon File">
             <add-to-group group-id="ca.alexgirard.harpoonIJ.mainGroup"/>
         </action>
-        <action id="GotoPrevousHarpoon" class="ca.alexgirard.harpoonIJ.GotoPreviousHarpoonAction"
+        <action id="GotoPreviousHarpoon" class="ca.alexgirard.harpoonIJ.GotoPreviousHarpoonAction"
                 text="Goto Previous Harpoon File">
             <add-to-group group-id="ca.alexgirard.harpoonIJ.mainGroup"/>
         </action>
