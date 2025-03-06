@@ -21,6 +21,7 @@ HarpoonIJ is a port of the NeoVim Extension [Harpoon](https://github.com/ThePrim
 - `ShowHarpoon`: Displays the Harpoon dialog.
 - `GotoHarpoon[1-5]`: Navigates to the file saved at the specified index.
 - `SetHarpoon[1-5]`: Assigns the current file to a specific index.
+- `AddToHarpoon`: Adds the current file to the first available empty index.
 - `GotoNextHarpoon`: Goes to the next file based on the last opened file that is currently added to Harpoon
 - `GotoPreviousHarpoon`: Goes to the previous file based on the last opened file that is currently added to Harpoon
 
